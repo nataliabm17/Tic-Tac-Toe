@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  font-family: 'Julius Sans One', sans-serif;
+  background-color: #FF7B54;
+  background-image: url("https://www.transparenttextures.com/patterns/back-pattern.png");
+   color: #434242
+}
+
+.board {
+  margin: auto;
+  width: 50%;
+}
+
+.board div {
+  background-color: #FFFFE8;
+  height: 10rem;
+  width: 32%;
+}
+
+.field1{
+  float: left;
+  margin-left: 1%;
+}
+
+.field2 {
+  margin-left: 1%;
+  float: left;
+  
+}
+
+.field3 {
+  margin-left: 1%;
+  float: left;
+}
+
+.field4 {
+  float: left;
+  margin: 1% 0 0 1%;
+}
+
+.field5 {
+  margin: 1% 0 0 1%; 
+  float: left;
+  
+}
+
+.field6 {
+  margin: 1% 0 0 1%;
+  float: left;
+}
+
+.field7 {
+  float: left;
+  margin: 1% 0 0 1%;
+}
+
+.field8 {
+  margin: 1% 0 0 1%; 
+  float: left;
+  
+}
+
+.field9 {
+  margin: 1% 0 0 1%;
+  float: left;
+}
+
+.board p {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.headers h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.headers p {
+  font-size: 2rem;
+  text-align: center;
+}
